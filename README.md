@@ -19,7 +19,7 @@ Like in WC, this program allows to count words,lines, and characters of a given 
 - For a quick test you can also use “testFile.txt”:
 
    **python wc.py -wc testFile.txt**
-
-   **python wc.py -lc testFile.txt**
   
-   **python wc.py -cc testFile.txt**
+- OR you can also type the directory of file:
+
+   **python wc.py -cc /Users/AliMert/Desktop/file.txt**
