@@ -19,7 +19,7 @@ There are three functions :
 
 **python wc.py -h**
 
-**python wc.py -wc \<directoryOfTheFile\>\n**
+**python wc.py -wc \<directoryOfTheFile\>**\n
 **python wc.py -lc \<directoryOfTheFile\>**
 
 **python wc.py -cc \<directoryOfTheFile\>**
