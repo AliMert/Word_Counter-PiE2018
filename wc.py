@@ -31,7 +31,7 @@ def count_words(data=""):
 
 
 
-def count_char(data=""):
+def count_chars(data=""):
     # print("The characters in the text are:")
     # print(data)
     print("The number of total characters is: " + str(len(data)))
@@ -97,7 +97,7 @@ def main():
         elif args.charCounter:
             with args.charCounter as file:
                 data = str(file.read())
-                count_char(data)
+                count_chars(data)
 
         else:
             print("Please press try again or type '-h' to get help.")
