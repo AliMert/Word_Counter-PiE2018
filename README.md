@@ -18,9 +18,9 @@ There are three functions :
 - After changing directory to project’s directory, project can be executed with the following commands : 
 
 **python wc.py -h**
-**python wc.py -wc \<directoryOfTheFile\>**
-**python wc.py -lc \<directoryOfTheFile\>**
-**python wc.py -cc \<directoryOfTheFile\>**
+**python wc.py -wc \<directoryOfTheFile>\**
+**python wc.py -lc \<directoryOfTheFile\>\**
+**python wc.py -cc \<directoryOfTheFile\>\**
 
 - For a quick test you can also use “testFile.txt”:
 **python wc.py -wc testFile.txt**
