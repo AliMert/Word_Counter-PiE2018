@@ -19,8 +19,8 @@ There are three functions :
 
 **python wc.py -h**
 **python wc.py -wc \<directoryOfTheFile\>**
-**python wc.py -lc <directoryOfTheFile>**
-**python wc.py -cc <directoryOfTheFile>**
+**python wc.py -lc \<directoryOfTheFile\>**
+**python wc.py -cc \<directoryOfTheFile\>**
 
 - For a quick test you can also use “testFile.txt”:
 **python wc.py -wc testFile.txt**
