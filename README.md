@@ -1,10 +1,10 @@
 # Word_Counter-PiE2018
 
-This is the first asignment of the "Python in the Enterprise Lab." course.
+This is the first assignment of the "Python in the Enterprise Lab." course.
 
-The prject is my own implementation of the (well known) Linux program WC (Word Counter).
+The project is my own implementation of the (well known) Linux program WC (Word Counter).
 
-Like in WC, this program allows to count words,lines, and characters of a text.
+Like in WC, this program allows to count words,lines, and characters of a given text.
 
 There are three functions :
 
@@ -13,6 +13,7 @@ There are three functions :
 **count_words(String data)**
 
 **count_lines(String data)**
+
 
 - After changing directory to project’s directory, project can be executed with the following commands : 
 
